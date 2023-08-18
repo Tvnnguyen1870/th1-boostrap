@@ -1,0 +1,28 @@
+
+.navi .navbar {
+    background-color: #131313;
+}
+
+.navbar li a {
+    color: #fff;
+}
+
+.navbar li a:hover {
+    color: #131313;
+    background-color: #ccc;
+}
+
+.row h2 {
+    margin-left: 20px;
+}
+
+.btn:hover {
+    background-color: red;
+    color: #fff;
+}
+
+.list-group {
+    width: 200px;
+}
+
+
